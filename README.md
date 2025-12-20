@@ -18,7 +18,7 @@ Cuento con experiencia en lenguajes de programación y en el diseño de circuito
 ## 💻 Tech Stack
 
 ### 🔧 Programming & HDL
-- C · C++ · Java · Verilog · MATLAB
+- C · C++ · Java · Verilog · MATLAB · Python
 
 ### ⚡ Electronics & Embedded Systems
 - Arduino · KiCad · LTspice · Simulink
