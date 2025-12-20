@@ -1,7 +1,7 @@
-# 💫 About Me
+# Anthony Calvo García💫 
 Estudiante de Ingeniería Eléctrica en la Universidad de Costa Rica (UCR), con conocimientos sólidos en el diseño y desarrollo de prototipos electrónicos.
 Cuento con experiencia en lenguajes de programación y en el diseño y fabricación de circuitos impresos (PCB).
----
+
 ## 🔍 Currently Exploring
 - Aplicaciones de la electrónica mediante el uso de microcontroladores.
 - Profundización en lenguajes de programación orientados a sistemas embebidos y control.
