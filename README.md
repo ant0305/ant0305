@@ -24,7 +24,7 @@ Experienced in programming languages and in the design of printed circuit boards
 - C · C++ · Java · Verilog · MATLAB · Python
 
 ### ⚡ Electronics & Embedded Systems
-- Arduino · KiCad · LTspice · Simulink
+- Arduino · KiCad · Pspice · Simulink
 
 ### 🧰 Tools
 - Git · GitHub · Linux · LaTeX · Inkscape
