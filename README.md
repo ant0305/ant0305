@@ -33,4 +33,3 @@ Experienced in programming languages and in the design of printed circuit boards
 
 ## 📊 GitHub Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ant0305&theme=github_dark" />
-/>
