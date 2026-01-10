@@ -31,6 +31,5 @@ Experienced in programming languages and in the design of printed circuit boards
 
 ---
 
-## 📊 GitHub Activity
-Active contributor to academic and personal projects related to electronics, embedded systems, and digital design.
-
+## 🏆 GitHub Highlights
+<img src="https://github-profile-trophy.vercel.app/?username=ant0305&theme=flat&no-frame=true&row=1&column=6" />
