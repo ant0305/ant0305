@@ -31,10 +31,4 @@ Experienced in programming languages and in the design of printed circuit boards
 
 ---
 
-## 💻 Most Used Languages
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ant0305&theme=github-dark&hide_border=true"
-/>
-
-
 
