@@ -31,8 +31,7 @@ Experienced in programming languages and in the design of printed circuit boards
 
 ---
 
-## 📊 GitHub Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ant0305&theme=vue-dark" />
+## 📈 GitHub Metrics
+<img src="https://metrics.lecoq.io/ant0305?template=classic&base.activity=true&base.community=false&base.repositories=false&config.timezone=America/Costa_Rica" />
 
----
 
