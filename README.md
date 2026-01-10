@@ -31,7 +31,6 @@ Experienced in programming languages and in the design of printed circuit boards
 
 ---
 
-## 📈 GitHub Metrics
-<img src="https://metrics.lecoq.io/ant0305?template=classic&base.activity=true&base.community=false&base.repositories=false&config.timezone=America/Costa_Rica" />
-
+## 📊 GitHub Activity
+Active contributor to academic and personal projects related to electronics, embedded systems, and digital design.
 
