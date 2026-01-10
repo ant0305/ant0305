@@ -33,7 +33,7 @@ Experienced in programming languages and in the design of printed circuit boards
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ant0305&layout=compact&theme=vue-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ant0305&theme=vue-dark" />
 
 ---
 
